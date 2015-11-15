@@ -1,5 +1,5 @@
 #################################
-Python is not (necessarily) slow
+Python is not necessarily slow
 #################################
 
 :date: 2015-11-15
