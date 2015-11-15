@@ -7,16 +7,7 @@ SITENAME = u"Python - Algorithms - Bioinformatics"
 SITEURL = ''
 # SITEURL = 'http://jeromekelleher.net'
 
-#THEME = "/home/jk/tmp/pelican-themes/BT3-Flat"
-#THEME = "/home/jk/tmp/pelican-themes/built-texts"
-#THEME = "/home/jk/tmp/pelican-themes/elegant"
-#THEME = "/home/jk/tmp/pelican-themes/foundation-default-colours/"
-#THEME = "/home/jk/tmp/pelican-themes/niu-x2/"
-#THEME = "/home/jk/tmp/pelican-themes/pelican-bootstrap3/"
-#THEME = "/home/jk/tmp/pelican-themes/pelican-simplegrey/"
-#THEME = "/home/jk/tmp/pelican-themes/plumage/"
-# THEME = "/home/jk/tmp/pelican-themes/tuxlite_tbs/"
-THEME = "/home/jk/tmp/pelican-themes/pelican-blueidea/"
+THEME = "pelican-blueidea/"
 
 TIMEZONE = 'Europe/London'
 
