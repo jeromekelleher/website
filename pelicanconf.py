@@ -4,8 +4,8 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jerome Kelleher'
 SITENAME = u"Python - Algorithms - Bioinformatics"
-SITEURL = ''
-# SITEURL = 'http://jeromekelleher.net'
+# SITEURL = ''
+SITEURL = 'http://jeromekelleher.net'
 
 THEME = "pelican-blueidea/"
 
