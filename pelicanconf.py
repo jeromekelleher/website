@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jerome Kelleher'
 SITENAME = u"Python - Algorithms - Bioinformatics"
-# SITEURL = ''
 SITEURL = 'http://jeromekelleher.net'
 
 THEME = "pelican-blueidea/"
@@ -31,4 +30,9 @@ SOCIAL = (('twitter', 'https://twitter.com/jeromekelleher'),
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
-#RELATIVE_URLS = True
+RELATIVE_URLS = True
+
+# Where to look for plugins
+PLUGIN_PATHS = ['../pelican-plugins']
+# Which plugins to enable
+PLUGINS = []
