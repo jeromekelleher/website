@@ -31,9 +31,8 @@ ways of doing this. We can use the `Python C API
 <https://docs.python.org/3/extending/index.html>`_ directly, or there are third
 party tools such as `Cython <http://cython.org/>`_ to simplify the process.
 This gives us the best of both worlds: the ease of programming and flexibility
-of Python along with the speed of C and C++. However, people still seem to
-dismiss Python as still being somehow too inefficient, and continue to develop
-their entire applications in C and C++.
+of Python along with the speed of C and C++. However, people seem to
+dismiss Python as still being somehow too inefficient.
 
 I want to challenge this idea with an example using my coalescent simulator
 `msprime <https://pypi.python.org/pypi/msprime>`_. The package provides a simple
