@@ -128,9 +128,14 @@ CV Sketch
 Publications
 ************
 
+**Jerome Kelleher, Alison M. Etheridge and Gilean McVean.**
+Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes.
+*PLoS Computational Biology*, Volume 12, May 2016, e1004842.
+`link <http://dx.doi.org/10.1371/journal.pcbi.1004842>`__
+
 **Jerome Kelleher, Alison M. Etheridge, Amandine Véber and Nicholas H. Barton.**
 Spread of pedigree versus genetic ancestry in spatially distributed populations.
-*Theoretical Population Biology*, in press,
+*Theoretical Population Biology*, Volume 108, April 2016, Pages 1–12.
 `link <http://dx.doi.org/10.1016/j.tpb.2015.10.008>`__
 
 **Jerome Kelleher, Alison M. Etheridge and Nicholas H. Barton.**
