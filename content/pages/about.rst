@@ -64,9 +64,9 @@ Activities
 
 - I'm part of the `Data Working Group <http://ga4gh.org/#>`_ in the `Global
   Alliance for Genomics and Health <http://genomicsandhealth.org/>`_ (GA4GH).
-  I'm participating in the design of the genomics API `schemas
-  <https://github.com/ga4gh/schemas>`_ and I lead development on the `reference
-  implementation <https://github.com/ga4gh/server>`_.
+  I am currently participating in the design and `client side implementation
+  <https://github.com/jeromekelleher/htsget>`_ of the `htsget data access protocol
+  <http://samtools.github.io/hts-specs/htsget.html>`_.
 
 - I've implemented a simulator,
   `msprime <https://pypi.python.org/pypi/msprime>`_, that allows simulation
