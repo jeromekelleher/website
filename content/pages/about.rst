@@ -1,9 +1,11 @@
 =====
 About
 =====
+:save_as: index.html
+
 
 I am a computer scientist working at the
-`Wellcome Trust Centre for Human Genetics <http://www.well.ox.ac.uk/>`_
+`Big Data Institute <https://www.bdi.ox.ac.uk/>`_
 in the `University of Oxford <http://www.ox.ac.uk/>`_. I work on
 a variety of computational problems in biological applications.
 
@@ -50,10 +52,12 @@ Contact
 **Address:**
 
 |   Dr Jerome Kelleher
-|   Wellcome Trust Centre for Human Genetics
-|   Roosevelt Drive
+|   Big Data Institute
+|   Li Ka Shing Centre for Health Information and Discovery
+|   Old Road Campus
 |   Oxford
-|   OX3 7BN
+|   OX3 7LF
+|   UK
 
 
 ----
@@ -101,7 +105,8 @@ CV Sketch
 2014-present
     Senior statistical programmer in the
     `McVean Group <http://www.well.ox.ac.uk/gil-mcvean>`__ at the
-    `Wellcome Trust Centre for Human Genetics <http://www.well.ox.ac.uk/home>`__,
+    `Big Data Institute <https://www.bdi.ox.ac.uk/>`__ (and formerly at the
+    `Wellcome Centre for Human Genetics <http://www.well.ox.ac.uk/home>`__),
     University of Oxford.
 
 2008-2014
@@ -127,6 +132,19 @@ CV Sketch
 ************
 Publications
 ************
+
+**Björn Grüning, Ryan Dale, Andreas Sjödin, Brad A. Chapman, Jillian Rowe,
+Christopher H. Tomkins-Tinch, Renan Valieris, Johannes Köster and Bioconda Team.**
+Bioconda: sustainable and comprehensive software distribution for the life sciences.
+*Nature Methods*, 15(7):475-476, 2018.
+`link <https://doi.org/10.1038/s41592-018-0046-7>`__
+
+**Jerome Kelleher, Mike Lin,  CH Albach,  Ewan Birney,  Robert Davies,
+Marina Gourtovaia, David Glazer,  Cristina Y Gonzalez,  David K Jackson,
+Aaron Kemp, John Marshall, Andrew Nowak, Alexander Senf,  Jaime M Tovar-Corona,
+Alexander Vikhorev, Thomas M Keane, and  GA4GH Streaming Task Team.**
+htsget: a protocol for securely streaming genomic data, *Bioinformatics* 2018.
+`link <https://doi.org/10.1093/bioinformatics/bty492>`__
 
 **Jerome Kelleher, Alison M. Etheridge and Gilean McVean.**
 Efficient Coalescent Simulation and Genealogical Analysis for Large Sample Sizes.

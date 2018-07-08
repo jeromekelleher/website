@@ -1,6 +1,9 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+
+DISPLAY_PAGES_ON_MENU = True
+DISPLAY_CATEGORIES_ON_SUBMENU = False
 
 AUTHOR = u'Jerome Kelleher'
 SITENAME = u"Python - Algorithms - Bioinformatics"
