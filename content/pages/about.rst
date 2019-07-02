@@ -133,6 +133,16 @@ CV Sketch
 Publications
 ************
 
+**Benjamin C. Haller,  Jared Galloway, Jerome Kelleher,  Philipp W. Messer and Peter L. Ralph**
+Tree‐sequence recording in SLiM opens new horizons for forward‐time simulation of whole genomes.
+*Molecular Ecology Resources*, 19:552–566, 2019.
+`link <https://doi.org/10.1111/1755-0998.12968>`__
+
+**Jerome Kelleher, Kevin R. Thornton, Jaime Ashander and Peter L. Ralph**
+Efficient pedigree recording for fast population genetics simulation.
+*PLoS Computational Biology*, 14(11): e1006581, 2018.
+`link <https://doi.org/10.1371/journal.pcbi.1006581>`__
+
 **Björn Grüning, Ryan Dale, Andreas Sjödin, Brad A. Chapman, Jillian Rowe,
 Christopher H. Tomkins-Tinch, Renan Valieris, Johannes Köster and Bioconda Team.**
 Bioconda: sustainable and comprehensive software distribution for the life sciences.
