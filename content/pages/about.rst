@@ -105,7 +105,7 @@ CV Sketch
 
 2019-present
     Robertson Fellowship in Biomedical Data Science at the
-    `Big Data Institute <https://www.bdi.ox.ac.uk/>`__
+    `Big Data Institute <https://www.bdi.ox.ac.uk/>`__,
     University of Oxford.
 
 2014-2019
