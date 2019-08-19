@@ -102,7 +102,13 @@ Activities
 CV Sketch
 **********
 
-2014-present
+
+2019-present
+    Robertson Fellowship in Biomedical Data Science at the
+    `Big Data Institute <https://www.bdi.ox.ac.uk/>`__
+    University of Oxford.
+
+2014-2019
     Senior statistical programmer in the
     `McVean Group <http://www.well.ox.ac.uk/gil-mcvean>`__ at the
     `Big Data Institute <https://www.bdi.ox.ac.uk/>`__ (and formerly at the
