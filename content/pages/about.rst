@@ -1,13 +1,12 @@
-=====
-About
-=====
+:title: About
+:url:
 :save_as: index.html
 
-
-I am a computer scientist working at the
-`Big Data Institute <https://www.bdi.ox.ac.uk/>`_
-in the `University of Oxford <http://www.ox.ac.uk/>`_. I work on
-a variety of computational problems in biological applications.
+I am a Robertson Fellow in Biomedical Data Science at the
+`Big Data Institute <https://www.bdi.ox.ac.uk/>`_, `University of
+Oxford <http://www.ox.ac.uk/>`_. I develop algorithms and software
+to tackle difficult problems in large-scale genomics, integrating
+with the Python data science stack.
 
 ----
 
@@ -15,13 +14,12 @@ a variety of computational problems in biological applications.
 Contact
 ********
 
-
-.. |profile_picture| image:: {filename}/images/profile-picture.jpg
+.. |profile_picture| image:: {static}/images/profile-picture.jpg
     :width: 200 px
     :alt: Jerome Kelleher
 
-.. |jk_email| replace:: jerome.kelleher@well.ox.ac.uk
-.. _jk_email: mailto:jerome.kelleher@well.ox.ac.uk
+.. |jk_email| replace:: jerome.kelleher@bdi.ox.ac.uk
+.. _jk_email: mailto:jerome.kelleher@bdi.ox.ac.uk
 
 .. |jk_github| replace:: @jeromekelleher
 .. _jk_github: https://github.com/jeromekelleher
@@ -42,7 +40,7 @@ Contact
 +---------------------+---------------------+                     +
 | **GitHub**          |  |jk_github|_       |                     |
 +---------------------+---------------------+                     +
-| **Twitter**         |  |jk_twitter|_      |   *Me*              |
+| **Twitter**         |  |jk_twitter|_      |   *Me at the BDI*   |
 +---------------------+---------------------+                     +
 | **Orcid**           |  |jk_orcid|_        |                     |
 +---------------------+---------------------+                     +
@@ -66,25 +64,23 @@ Contact
 Activities
 **********
 
+- I lead development of `tskit <https://tskit.readthedocs.io/>`_, the
+  tree sequence toolkit. Tskit is a Python and C API that allows us to
+  work with genealogical histories at unprecedented scale.
+
+- I also lead development of the `msprime
+  <https://pypi.python.org/pypi/msprime>`_ coalescent simulator, which is based on
+  tskit, and can simulate of the exact coalescent with recombination over
+  chromosome-sized regions with hundreds of thousands of samples.
+
 - I'm part of the `Data Working Group <http://ga4gh.org/#>`_ in the `Global
   Alliance for Genomics and Health <http://genomicsandhealth.org/>`_ (GA4GH).
   I am currently participating in the design and `client side implementation
   <https://github.com/jeromekelleher/htsget>`_ of the `htsget data access protocol
   <http://samtools.github.io/hts-specs/htsget.html>`_.
 
-- I've implemented a simulator,
-  `msprime <https://pypi.python.org/pypi/msprime>`_, that allows simulation
-  of the exact coalescent with recombination over chromosome-sized regions
-  with hundreds of thousands of samples. This also also provides a user
-  friendly `Python API <https://msprime.readthedocs.org/en/latest/api.html>`_.
-
-- Working with `Rob Ness <http://lanner.cap.ed.ac.uk/~rwness/>`_ and
-  `Dan Halligan <http://lanner.cap.ed.ac.uk/~dan/>`_, I developed
-  `Wormtable <https://pypi.python.org/pypi/wormtable>`_, a Python library
-  for working with large scale tabular data.
-
-- During my postdoc, I worked primarily on a new model for populations
-  evolving in a `spatial continuum
+- During my postdoc in theoretical population genetics , I worked primarily
+  on a new model for populations evolving in a `spatial continuum
   <http://onlinelibrary.wiley.com/doi/10.1111/j.1558-5646.2010.01019.x/full>`_.
   During this time I developed two Python simulation packages: one to
   simulate a `general form <https://pypi.python.org/pypi/ercs>`_ of the model
@@ -133,7 +129,6 @@ CV Sketch
 1998-2002
     BSc Computer Science,  `University College Cork <http://www.ucc.ie/>`__.
 
-----
 
 ************
 Publications
@@ -266,3 +261,4 @@ The large-parts formula for p(n).
 Generating All Partitions: A Comparison Of Two Encodings.
 *arXiv*, 0909.2331, 2009
 `link <http://arxiv.org/abs/0909.2331>`__
+
