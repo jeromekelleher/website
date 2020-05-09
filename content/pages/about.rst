@@ -73,6 +73,10 @@ Activities
   tskit, and can simulate of the exact coalescent with recombination over
   chromosome-sized regions with hundreds of thousands of samples.
 
+- I'm a member of the `PopSim Consortium <https://github.com/popsim-consortium>`_
+  and lead development of its first product,
+  `stdpopsim <https://stdpopsim.readthedocs.io/en/latest/>`_.
+
 - I'm part of the `Data Working Group <http://ga4gh.org/#>`_ in the `Global
   Alliance for Genomics and Health <http://genomicsandhealth.org/>`_ (GA4GH).
   I am currently participating in the design and `client side implementation
@@ -130,16 +134,47 @@ CV Sketch
     BSc Computer Science,  `University College Cork <http://www.ucc.ie/>`__.
 
 
+*************
+Book Chapters
+*************
+
+**Jerome Kelleher and Konrad Lohse.**
+Coalescent simulation with msprime.
+Chapter 9 in *Statistical Population Genomics*, 2020.
+`link <https://doi.org/10.1007/978-1-0716-0199-0_9>`__
+
+**Jerome Kelleher and Gil McVean.**
+Linkage Disequilibrium, Recombination and Haplotype Structure.
+Chapter 2 in *Handbook of Statistical Genomics*, 2019.
+`link <https://doi.org/10.1002/9781119487845.ch2>`__
+
+
 ************
 Publications
 ************
 
-**Benjamin C. Haller,  Jared Galloway, Jerome Kelleher,  Philipp W. Messer and Peter L. Ralph**
+**Dominic Nelson, Jerome Kelleher, Aaron P. Ragsdale, Claudia Moreau, Gil McVean and Simon Gravel.**
+Accounting for long-range correlations in genome-wide simulations of large cohorts.
+*PLOS Genetics* 16(5): e1008619, 2020.
+`link <https://doi.org/10.1371/journal.pgen.1008619>`__
+
+**Peter Ralph, Kevin Thornton and Jerome Kelleher**.
+Efficiently Summarizing Relationships in Large Samples: A General Duality Between
+Statistics of Genealogies and Genomes.
+*Genetics*, 2020.
+`link <https://doi.org/10.1534/genetics.120.303253>`__
+
+**Jerome Kelleher, Yan Wong, Anthony W. Wohns, Chaimaa Fadil, Patrick K. Albers and Gil McVean.**
+Inferring whole-genome histories in large population datasets.
+*Nature Genetics*, 51:1330–1338, 2019.
+`link <https://doi.org/10.1038/s41588-019-0483-y>`__
+
+**Benjamin C. Haller,  Jared Galloway, Jerome Kelleher,  Philipp W. Messer and Peter L. Ralph.**
 Tree‐sequence recording in SLiM opens new horizons for forward‐time simulation of whole genomes.
 *Molecular Ecology Resources*, 19:552–566, 2019.
 `link <https://doi.org/10.1111/1755-0998.12968>`__
 
-**Jerome Kelleher, Kevin R. Thornton, Jaime Ashander and Peter L. Ralph**
+**Jerome Kelleher, Kevin R. Thornton, Jaime Ashander and Peter L. Ralph.**
 Efficient pedigree recording for fast population genetics simulation.
 *PLoS Computational Biology*, 14(11): e1006581, 2018.
 `link <https://doi.org/10.1371/journal.pcbi.1006581>`__
