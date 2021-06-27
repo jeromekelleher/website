@@ -1,4 +1,4 @@
 [submodule "pelican-blueidea"]
 	path = pelican-blueidea
 	url = https://github.com/getpelican-themes/pelican-blueidea.git
-	branch = main
+	branch = master
