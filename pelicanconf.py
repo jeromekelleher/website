@@ -11,6 +11,7 @@ PATH = 'content'
 TIMEZONE = 'Europe/London'
 
 DEFAULT_LANG = 'en'
+STATIC_PATHS = ['downloads']
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
