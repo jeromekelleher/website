@@ -64,18 +64,22 @@ Contact
 Activities
 **********
 
-- I lead development of `tskit <https://tskit.readthedocs.io/>`_, the
+- I am co-organising Probabilistic Modelling in Genomics 2022 conference.
+  Please see the `ProbGen22 website <https://probgen22.github.io/>`_
+  for more details.
+
+- I lead development of `tskit <https://tskit.dev/tskit/>`_, the
   tree sequence toolkit. Tskit is a Python and C API that allows us to
   work with genealogical histories at unprecedented scale.
 
 - I also lead development of the `msprime
-  <https://pypi.python.org/pypi/msprime>`_ coalescent simulator, which is based on
+  <https://tskit.dev/msprime>`_ coalescent simulator, which is based on
   tskit, and can simulate of the exact coalescent with recombination over
   chromosome-sized regions with hundreds of thousands of samples.
 
 - I'm a member of the `PopSim Consortium <https://github.com/popsim-consortium>`_
   and lead development of its first product,
-  `stdpopsim <https://stdpopsim.readthedocs.io/en/latest/>`_.
+  `stdpopsim <https://popsim-consortium.github.io/stdpopsim-docs/stable/index.html>`_.
 
 - I'm part of the `Data Working Group <http://ga4gh.org/#>`_ in the `Global
   Alliance for Genomics and Health <http://genomicsandhealth.org/>`_ (GA4GH).
