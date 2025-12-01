@@ -31,7 +31,6 @@ Contact
 .. _jk_scholar: https://scholar.google.co.uk/citations?user=aYTQa_AAAAAJ&hl=en&oi=ao
 
 
-
 +---------------------+---------------------+---------------------+
 | **Email**           |  |jk_email|         |                     |
 +---------------------+---------------------+                     +
