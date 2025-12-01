@@ -8,6 +8,7 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
+# NOT USED ANYMORE! Now hosted by netlify via github integration
 SSH_HOST=jeromekelleher.net
 SSH_PORT=22
 SSH_USER=a2970
