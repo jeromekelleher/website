@@ -1,5 +1,6 @@
 # website
 Personal website
 
-## Note
+Hosted by netlify via github integration
+
 
